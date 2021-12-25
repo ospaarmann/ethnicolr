@@ -114,7 +114,7 @@ setup(
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=[
-        'tensorflow==2.5.0',
+        'tensorflow-macos==2.5.0',
         'pandas>1.2.3'
     ],
 
